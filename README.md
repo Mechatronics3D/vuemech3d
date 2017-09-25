@@ -1,4 +1,4 @@
-# mechatronics3d
+# Mechatronics3d
 
 > Personal website
 
@@ -21,5 +21,5 @@ $ npm run generate
 
 For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
 
-# Reference
+## Reference
 [Create a static site in 15 minutes or less using Vue.js](https://codeburst.io/create-a-static-site-in-15-minutes-or-less-using-vue-js-e4e2a9945ee6)
